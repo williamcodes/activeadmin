@@ -6,6 +6,10 @@
 
 * Support for ruby 2.4 has been removed. [#6198] by [@deivid-rodriguez]
 
+### Enhancements
+
+* Disallow other hosts in redirecting back to improve security. [#6307] by [@williamcodes]
+
 ## 2.7.0 [☰](https://github.com/activeadmin/activeadmin/compare/v2.6.1..v2.7.0)
 
 ### Enhancements
